@@ -1,0 +1,16 @@
+
+body {
+    background-color: wheat;
+}
+
+h1 {
+    background-color: lightblue;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+}
+.future-weather-cards {
+    display: flex;
+}
